@@ -38,7 +38,7 @@ const changeBackground = () => {
       changeColor.style.backgroundColor = "Blue";
       break;
     case "pisces":
-      changeColorstyle.backgroundColor = "Turquoise";
+      changeColor.style.backgroundColor = "Turquoise";
       break;
     default:
       changeColor.style.backgroundColor = "white";
