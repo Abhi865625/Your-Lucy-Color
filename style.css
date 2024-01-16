@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 30px;
+  background-color: wheat;
+  color: black;
+  padding: 10px;
+}
+
+select {
+  margin-left: 30px;
+  background-color: rgb(179, 245, 231);
+  color: black;
+  padding: 10px;
+  outline: none;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font: 1.2rem Georgia;
+  border-radius: 10px;
+  margin: 0 auto;
+  display: block;
+}
+button {
+  background-color: rgb(179, 195, 245);
+  color: black;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font: 1.2rem Georgia;
+  border-radius: 10px;
+  margin: 20px auto;
+  display: block;
+}
+
+.box {
+  margin: 30px;
+  height: 450px;
+  width: 450px;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: block;
+  margin-top: 10px;
+}
